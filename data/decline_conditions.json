@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "code": "CHF",
+      "label": "Congestive Heart Failure",
+      "description": "History of CHF"
+    },
+    {
+      "code": "COPD",
+      "label": "Chronic Obstructive Pulmonary Disease",
+      "description": "Moderate to severe COPD"
+    },
+    {
+      "code": "ESRD",
+      "label": "End Stage Renal Disease",
+      "description": "Kidney failure"
+    },
+    {
+      "code": "ALZ",
+      "label": "Alzheimer's",
+      "description": "Alzheimer's or dementia"
+    },
+    {
+      "code": "STROKE",
+      "label": "CVA/Stroke",
+      "description": "Cerebrovascular accident"
+    }
+  ]
+}

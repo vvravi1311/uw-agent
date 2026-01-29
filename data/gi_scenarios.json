@@ -1,0 +1,95 @@
+{
+  "defaultLookbackDays": 63,
+  "items": [
+    {
+      "code": "MA_PLAN_TERMINATION",
+      "description": "MA plan terminated or non-renewed",
+      "lookbackDaysDefault": 63,
+      "planLettersPermitted": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "K",
+        "L"
+      ]
+    },
+    {
+      "code": "MA_MOVE_OUT_OF_SERVICE_AREA",
+      "description": "Move outside MA service area",
+      "lookbackDaysDefault": 63,
+      "planLettersPermitted": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "K",
+        "L"
+      ]
+    },
+    {
+      "code": "MA_TRIAL_RIGHT_WITHIN_12M",
+      "description": "First-year MA trial right",
+      "lookbackDaysDefault": 63,
+      "planLettersPermitted": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "K",
+        "L"
+      ]
+    },
+    {
+      "code": "EMPLOYER_GROUP_ENDING",
+      "description": "EGWP/union coverage ending",
+      "lookbackDaysDefault": 63,
+      "planLettersPermitted": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "K",
+        "L"
+      ]
+    },
+    {
+      "code": "MEDIGAP_INSOLVENCY",
+      "description": "Medigap insurer insolvency",
+      "lookbackDaysDefault": 63,
+      "planLettersPermitted": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "K",
+        "L"
+      ]
+    },
+    {
+      "code": "SELECT_MOVE_OUT_OF_AREA",
+      "description": "SELECT plan move out of area",
+      "lookbackDaysDefault": 63,
+      "planLettersPermitted": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "K",
+        "L"
+      ]
+    }
+  ]
+}

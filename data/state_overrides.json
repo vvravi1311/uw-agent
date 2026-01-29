@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "state": "NY",
+      "continuousGi": true,
+      "birthdayOrAnniversarySwitching": {
+        "enabled": false
+      },
+      "under65Access": "ANY_AVAILABLE",
+      "notes": [
+        "Continuous/annual GI; community rating (demo)."
+      ]
+    },
+    {
+      "state": "CT",
+      "continuousGi": true,
+      "birthdayOrAnniversarySwitching": {
+        "enabled": false
+      },
+      "under65Access": "ANY_AVAILABLE",
+      "notes": [
+        "Continuous GI protections (demo)."
+      ]
+    },
+    {
+      "state": "GA",
+      "continuousGi": false,
+      "birthdayOrAnniversarySwitching": {
+        "enabled": false
+      },
+      "under65Access": "LIMITED",
+      "notes": [
+        "Default federal baseline applies."
+      ]
+    }
+  ]
+}
